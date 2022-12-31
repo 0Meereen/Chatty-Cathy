@@ -1,5 +1,11 @@
 # Update-Chatty-Cathy Change-Log
-Chatty cathy's update follow-up
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://o.remove.bg/downloads/e179117d-3ab3-4c5f-a031-66b84c677a6e/chatty_cathy-removebg-preview.png" alt="Chatty Cathy Discord bot"></a>
+  <br>
+  Chatty Cathy Discord bot
+  <br>
+</h1>
 
 ### 📝 ToDo 
 
