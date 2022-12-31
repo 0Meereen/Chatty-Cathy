@@ -1,7 +1,7 @@
 # Update-Chatty-Cathy Change-Log
 Chatty cathy's update follow-up
 
- /Update 0.6B\
+   / Update 0.6B \
  
  -Add button "stop"
  
