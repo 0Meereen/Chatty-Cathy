@@ -1,7 +1,7 @@
 # Update-Chatty-Cathy Change-Log
 <h1 align="center">
   <br>
-  <a href="discordapp.com/users/346000918287745024"><img src="https://o.remove.bg/downloads/e179117d-3ab3-4c5f-a031-66b84c677a6e/chatty_cathy-removebg-preview.png" alt="Chatty Cathy Discord bot"></a>
+  <img src="https://o.remove.bg/downloads/e179117d-3ab3-4c5f-a031-66b84c677a6e/chatty_cathy-removebg-preview.png" alt="Chatty Cathy Discord bot">
   <br>
   Chatty Cathy Discord bot
   <br>
