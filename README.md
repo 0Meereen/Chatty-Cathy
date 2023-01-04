@@ -12,6 +12,17 @@
 - [ ] lyrics command
 - [ ] secret 
 
+Update 0.9B
+- Emoji support
+- Change typo "Events start"
+- Fix command "queue"
+- Remove all command <Private message>
+- Fix crash (queue so long)
+- Fix permission erreur
+- Add command "/version"
+- Change typo "ping"
+
+
 
 Update 0.6B
 
