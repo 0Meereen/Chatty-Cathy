@@ -12,6 +12,9 @@
 - [ ] lyrics command
 - [ ] secret 
 
+Update 0.9B (2)
+- Fix crash "pause"
+
 Update 0.9B
 - Emoji support
 - Change typo "Events start"
