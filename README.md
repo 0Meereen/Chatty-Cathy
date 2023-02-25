@@ -12,6 +12,12 @@
 - [ ] lyrics command
 - [ ] secret 
 
+Update 1.0
+- Fix error in console
+- shuffle command add
+- playnext command add
+- Fix typo
+
 Update 0.9B
 - Emoji support
 - Change typo "Events start"
