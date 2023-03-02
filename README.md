@@ -12,6 +12,27 @@
 - [ ] lyrics command
 - [ ] secret 
 
+Update 1.0.0
+
+- Fix Music crash after 40-50 seconds.
+- Error : bot stops playing after a minute in the song.
+- Temporary fix:
+- Edit the file located at /node_modules/@discordjs/voice/dist/index.js on line 1429
+
+```js
+  addStatePacket(packet) {
+    this.configureNetworking();
+    this.packets.state = packet;
+    if (typeof packet.self_deaf !== "undefined")
+      this.joinConfig.selfDeaf = packet.self_deaf;
+    if (typeof packet.selfmute !== "undefined") 
+      this.joinConfig.seldMute = packet.self_mute;
+    if (packet.channel_id) 
+      this.joinConfig.channelId = packet.channel_id;
+  }
+};
+```
+
 Update 1.0
 - Fix error in console
 - shuffle command add
