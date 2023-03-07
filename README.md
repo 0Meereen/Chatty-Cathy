@@ -12,6 +12,15 @@
 - [ ] lyrics command
 - [ ] secret 
 
+Update 1.1.0
+
+- Cleaning of the writing
+- Add embed ( duration, progressbar, external url)
+- thumbnail spotify / youtube
+- fluidity increase
+
+
+
 Update 1.0.0
 
 - Fix Music crash after 40-50 seconds.
