@@ -12,6 +12,17 @@
 - [ ] lyrics command
 - [ ] secret 
 
+Update 1.5.0
+
+- Fix back command.
+- Massive typo change.
+- Compatible discord-player V6.
+- Queue destroy sometimes for nothing fixed.
+- Add New button "more" ( New controller available). 
+- Add save music command ( pm link music when u use button).
+- Increase performance. (the hosting is much more efficient)
+- New typo in trackAdd.
+
 Update 1.1.0
 
 - Cleaning of the writing
