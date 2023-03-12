@@ -9,7 +9,9 @@
 
 ### 📝 ToDo 
 
-- [ ] lyrics command
+- [X] lyrics command
+- [ ] XP system
+- [ ] multi lang support
 - [ ] secret 
 
 Update 1.5.0
