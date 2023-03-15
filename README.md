@@ -10,9 +10,25 @@
 ### 📝 ToDo 
 
 - [X] lyrics command
-- [ ] XP system
+- [X] XP system
 - [ ] multi lang support
 - [ ] secret 
+
+Update 1.6.0 (Soon) - Available only in Chatty Cathy bêta.
+- [ ] System earn xp
+- [ ] command dashboard
+- [X] increase perf
+- [X] Finally back button work.
+- [X] Fix crash with voice channel temporary
+- [X] New command :
+ - xp
+ - register
+ - unregister
+ - addxp
+ - addlevel
+ 
+ 
+ -----------------------------------------------------
 
 Update 1.5.0
 
