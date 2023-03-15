@@ -9,15 +9,15 @@
 
 ### 📝 ToDo 
 
-- [X] lyrics command
+- [X] Lyrics command
 - [X] XP system
-- [ ] multi lang support
-- [ ] secret 
+- [ ] Multi lang support
+- [ ] Secret 
 
 Update 1.6.0 (Soon) - Available only in Chatty Cathy bêta.
 - [ ] System earn xp
-- [ ] command dashboard
-- [X] increase perf
+- [ ] Command dashboard
+- [X] Increase perf
 - [X] Finally back button work.
 - [X] Fix crash with voice channel temporary
 - [X] New command :
