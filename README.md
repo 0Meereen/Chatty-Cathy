@@ -11,12 +11,14 @@
 
 - [X] Lyrics command
 - [X] XP system
+- [ ] Server Support - website
 - [ ] Multi lang support
 - [ ] Secret 
 
-Update 1.6.0 (Soon) - Available only in Chatty Cathy bêta.
-- [ ] System earn xp
-- [ ] Command dashboard
+Update 1.6.0
+- [X] Rework help command
+- [X] System earn xp (Test)
+- [X] Command dashboard
 - [X] Increase perf
 - [X] Finally back button work.
 - [X] Fix crash with voice channel temporary
@@ -26,6 +28,14 @@ Update 1.6.0 (Soon) - Available only in Chatty Cathy bêta.
  - unregister
  - addxp
  - addlevel
+ 
+ ```js
+      const xpStatusMessage = `🎓 Here is your XP status:
+- Level: **${userData.level}**
+- Current XP: **${userData.xp}**
+- XP to next level: **${nextLevelXp - userData.xp}**
+- Total XP: **${userData.xp + (userData.level - 1) * nextLevelXp}**`;
+```
  
  
  -----------------------------------------------------
