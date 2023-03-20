@@ -15,10 +15,11 @@
 - [ ] Multi lang support
 - [ ] Secret 
 
-Update 16.1.1
+Update 1.6.1
 
 - [X] Fix crash when you using command in DM.
 - [X] Fix Typo 
+- [X] Update discord-player 6.1.1
 
 Update 16.1.0
 
