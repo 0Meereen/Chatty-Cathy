@@ -15,17 +15,20 @@
 - [ ] Multi lang support
 - [ ] Secret 
 
+Update 16.1.1
+
+- [X] Fix crash when you using command in DM.
+- [X] Fix Typo 
+
 Update 16.1.0
 
 - [X] Xp system multi guild.
 - [X] Disable button back ( he dont work )
 - [X] New embed for dashboard, rank.
-- [X] add system status (only for Chatty Team).
-- [X] addxp disable (Rework soon).
+- [X] Add system status (only for Chatty Team).
+- [X] Addxp disable (Rework soon).
 - [X] Remove old code.
-- [X] earn xp work for the command core now.
-
-
+- [X] Earn xp work for the command core now.
 
 Update 1.6.0
 - [X] Rework help command
