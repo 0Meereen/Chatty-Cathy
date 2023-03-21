@@ -3,9 +3,41 @@
   <br>
   <img src="https://cdn.discordapp.com/attachments/1054749393238097962/1060231996535750656/20221230_152013_0000-removebg-preview.png" alt="Chatty Cathy Discord bot">
   <br>
-  Chatty Cathy Discord bot
+  Chatty Cathy is a Discord bot designed to help you manage your server and play music! The bot comes equipped with several features, including XP system, level tracking, and a music player.
   <br>
 </h1>
+
+## Usage
+
+you can use the following commands to interact with it:
+
+### Chat Commands
+- `!help` : Get a list of all commands available
+- `!version` : Check the current version of the bot
+- `!dashboard` : Display the top 3 users with the highest level
+- `!level` : Check your XP status
+- `!register` : Register for the XP system
+- `!unregister` : Unregister from the XP system
+- `!user` : Check XP status for a specific user
+
+### Music Commands
+- `!back` : Go back to the previous song in the queue
+- `!clear` : Clear all songs in the queue
+- `!pause` : Pause the current track
+- `!play` : Play a song!
+- `!playnext` : Play the next song in the queue
+- `!queue` : Get a list of all songs in the queue
+- `!shuffle` : Shuffle the tracks in the queue
+- `!skip` : Skip the current track
+- `!stop` : Stop the bot
+- `!volume` : Adjust the volume of the bot
+
+
+## Credits
+
+This bot was created by Meereen using the [Discord.js](https://discord.js.org) library. 
+
+-------------------------------------------------------
 
 ### 📝 ToDo 
 
@@ -15,7 +47,15 @@
 - [ ] Multi lang support
 - [ ] Secret 
 
+Update 1.6.2
+
+- [X] Change command "xp" to "level"
+- [X] Delete rank command
+- [X] Add button shuffle
+- [X] Fix clear button
+
 Update 1.6.1
+
 
 - [X] Fix crash when you using command in DM.
 - [X] Fix Typo 
