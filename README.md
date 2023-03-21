@@ -9,8 +9,99 @@
 
 ### 📝 ToDo 
 
-- [ ] lyrics command
-- [ ] secret 
+- [X] Lyrics command
+- [X] XP system
+- [ ] Server Support - website
+- [ ] Multi lang support
+- [ ] Secret 
+
+Update 1.6.1
+
+- [X] Fix crash when you using command in DM.
+- [X] Fix Typo 
+- [X] Update discord-player 6.1.1
+
+Update 16.1.0
+
+- [X] Xp system multi guild.
+- [X] Disable button back ( he dont work )
+- [X] New embed for dashboard, rank.
+- [X] Add system status (only for Chatty Team).
+- [X] Addxp disable (Rework soon).
+- [X] Remove old code.
+- [X] Earn xp work for the command core now.
+
+Update 1.6.0
+- [X] Rework help command
+- [X] System earn xp (Test)
+- [X] Command dashboard
+- [X] Increase perf
+- [X] Finally back button work.
+- [X] Fix crash with voice channel temporary
+- [X] New command :
+ - xp
+ - register
+ - unregister
+ - addxp
+ - addlevel
+ 
+ ```js
+      const xpStatusMessage = `🎓 Here is your XP status:
+- Level: **${userData.level}**
+- Current XP: **${userData.xp}**
+- XP to next level: **${nextLevelXp - userData.xp}**
+- Total XP: **${userData.xp + (userData.level - 1) * nextLevelXp}**`;
+```
+ 
+ 
+ -----------------------------------------------------
+
+Update 1.5.0
+
+- Fix back command.
+- Massive typo change.
+- Compatible discord-player V6.
+- Queue destroy sometimes for nothing fixed.
+- Add New button "more" ( New controller available). 
+- Add save music command ( pm link music when u use button).
+- Increase performance. (the hosting is much more efficient)
+- New typo in trackAdd.
+
+Update 1.1.0
+
+- Cleaning of the writing
+- Add embed ( duration, progressbar, external url)
+- thumbnail spotify / youtube
+- fluidity increase
+
+
+
+Update 1.0.0
+
+- Fix Music crash after 40-50 seconds.
+- Error : bot stops playing after a minute in the song.
+- Temporary fix:
+- Edit the file located at /node_modules/@discordjs/voice/dist/index.js on line 1429
+
+```js
+  addStatePacket(packet) {
+    this.configureNetworking();
+    this.packets.state = packet;
+    if (typeof packet.self_deaf !== "undefined")
+      this.joinConfig.selfDeaf = packet.self_deaf;
+    if (typeof packet.selfmute !== "undefined") 
+      this.joinConfig.seldMute = packet.self_mute;
+    if (packet.channel_id) 
+      this.joinConfig.channelId = packet.channel_id;
+  }
+};
+```
+
+Update 1.0
+- Fix error in console
+- shuffle command add
+- playnext command add
+- Fix typo
 
 Update 0.9B (2)
 - Fix crash "pause"
