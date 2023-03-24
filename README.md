@@ -14,7 +14,7 @@ you can use the following commands to interact with it:
 ### Chat Commands
 - `!help` : Get a list of all commands available
 - `!version` : Check the current version of the bot
-- `!dashboard` : Display the top 3 users with the highest level
+- `!dashboard` : Display the top 10 users with the highest level
 - `!level` : Check your XP status
 - `!register` : Register for the XP system
 - `!unregister` : Unregister from the XP system
@@ -46,6 +46,13 @@ This bot was created by Meereen using the [Discord.js](https://discord.js.org) l
 - [ ] Server Support - website
 - [ ] Multi lang support
 - [ ] Secret 
+
+
+Update 1.6.3
+
+- [X] Ater loading track, message delete
+- [X] Ater loading playlist, message delete
+- [X] Fix error typo
 
 Update 1.6.2
 
