@@ -39,22 +39,21 @@ This bot was created by Meereen using the [Discord.js](https://discord.js.org) l
 
 -------------------------------------------------------
 
-### 📝 ToDo 
 
-Update 1.7.0
 
-- [X] Earn xp random 10 to 200
-- [X] Cooldown added for all command earn xp
-- [X] Button back disabled if previous track dont exist.
-- [X] Fix volume command 
-- [X] Fix error typo clear
-- [X] Fix bad calculate xp
-- [X] Rename dashboard command to rank
-- [X] Feature filter added
-- [X] Command disablefilters added
-- [X] Add button prenium ( soon available )
-if you're enjoying Chatty Cathy, please consider leaving a review on Top.gg! 
-https://top.gg/bot/1045262853508186152#reviews
+Patch Notes - Version 1.7.0:
+
+Fixed issue with the volume command not working properly.
+Corrected a typo in the clear command that was causing errors.
+Fixed a bug where XP was being calculated incorrectly.
+Renamed the dashboard command to rank for improved clarity.
+Added a new feature: filter. Users can now filter search results more easily.
+Added a new command: disablefilters. This command allows users to disable filters.
+Added the ability to earn XP randomly between 10 to 200.
+Added cooldowns for all XP-earning commands to prevent spamming.
+Disabled the "back" button if there is no previous track.
+Added a new premium button (coming soon).
+Thank you for choosing our platform. We hope these updates improve your experience!
 
 
 - [X] Ater loading track, message delete
