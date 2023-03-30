@@ -7,35 +7,7 @@
   <br>
 </h1>
 
-## Usage
 
-you can use the following commands to interact with it:
-
-### Chat Commands
-- `!help` : Get a list of all commands available
-- `!version` : Check the current version of the bot
-- `!dashboard` : Display the top 10 users with the highest level
-- `!level` : Check your XP status
-- `!register` : Register for the XP system
-- `!unregister` : Unregister from the XP system
-- `!user` : Check XP status for a specific user
-
-### Music Commands
-- `!back` : Go back to the previous song in the queue
-- `!clear` : Clear all songs in the queue
-- `!pause` : Pause the current track
-- `!play` : Play a song!
-- `!playnext` : Play the next song in the queue
-- `!queue` : Get a list of all songs in the queue
-- `!shuffle` : Shuffle the tracks in the queue
-- `!skip` : Skip the current track
-- `!stop` : Stop the bot
-- `!volume` : Adjust the volume of the bot
-
-
-## Credits
-
-This bot was created by Meereen using the [Discord.js](https://discord.js.org) library. 
 
 -------------------------------------------------------
 
@@ -43,19 +15,16 @@ This bot was created by Meereen using the [Discord.js](https://discord.js.org) l
 
 Patch Notes - Version 1.7.0:
 
-Fixed issue with the volume command not working properly.
-Corrected a typo in the clear command that was causing errors.
-Fixed a bug where XP was being calculated incorrectly.
-Renamed the dashboard command to rank for improved clarity.
-Added a new feature: filter. Users can now filter search results more easily.
-Added a new command: disablefilters. This command allows users to disable filters.
-Added the ability to earn XP randomly between 10 to 200.
-Added cooldowns for all XP-earning commands to prevent spamming.
-Disabled the "back" button if there is no previous track.
-Added a new premium button (coming soon).
-Thank you for choosing our platform. We hope these updates improve your experience!
-
-
+- [X] Fixed issue with the volume command not working properly.
+- [X] Corrected a typo in the clear command that was causing errors.
+- [X] Fixed a bug where XP was being calculated incorrectly.
+- [X] Renamed the dashboard command to rank for improved clarity.
+- [X] Added a new feature: filter. Users can now filter search results more easily.
+- [X] Added a new command: disablefilters. This command allows users to - [X] disable filters.
+- [X] Added the ability to earn XP randomly between 10 to 200.
+- [X] Added cooldowns for all XP-earning commands to prevent spamming.
+- [X] Disabled the "back" button if there is no previous track.
+- [X] Added a new premium button (coming soon).
 - [X] Ater loading track, message delete
 - [X] Ater loading playlist, message delete
 - [X] Fix error typo
