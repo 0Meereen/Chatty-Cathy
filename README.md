@@ -7,9 +7,28 @@
   <br>
 </h1>
 
-
+Support : https://discord.gg/A7gcRnECGU
 
 -------------------------------------------------------
+
+═════════════════════════════════
+              Patch Notes - Version 1.8.0
+═════════════════════════════════
+
+New Features:
+- Added support for SoundCloud to search and play music from SoundCloud.
+- Music search has been adjusted to be more accurate and efficient.
+- Added a confirmation for removing user data.
+- An integration message is now displayed when the playlist is done.
+- The playing embed is now automatically updated when the playing music is changed.
+
+Bug Fixes:
+- Fixed a bug that caused the bot to leave the voice channel during music playback.
+- Fixed a bug that caused errors with the volume command for multiple guilds.
+
+Other Changes:
+- The "more" button event is now removed after 15 seconds for a better user experience.
+-Modified the typography of the playing music title to make it easier to differentiate from other text.
 
 
 
