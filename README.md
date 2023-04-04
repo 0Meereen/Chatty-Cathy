@@ -8,6 +8,7 @@
 </h1>
 
 Support : https://discord.gg/A7gcRnECGU
+Vote : https://top.gg/bot/1045262853508186152
 
 -------------------------------------------------------
 
