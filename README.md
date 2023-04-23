@@ -10,6 +10,37 @@
 Support : https://discord.gg/A7gcRnECGU
 Vote : https://top.gg/bot/1045262853508186152
 
+
+═════════════════════════════════
+Patch Notes - Version 1.9.0
+═════════════════════════════════
+
+New Features:
+- Added a new profile picture.
+- Added a new command for the queue button called "skip-perfect".
+- Introduced a premium progress system.
+- Added new fun commands such as "slap", "hug", "kiss", and "ascii".
+- Added author of the music, total views of the music video, and volume level to the "more options" button.
+- The queue can now hold more than 100 songs.
+- Doubled the XP gain.
+- The chatgpt and lyrics commands are now premium commands.
+
+Improvements:
+- Fixed numerous issues to improve the bot's smoothness.
+- Updated the design of the bot's responses.
+- Replaced 90% of basic text with embeds.
+- Enormous clean-up of the source code.
+- Totally fixed the cooldown which was not working correctly.
+- Added a "setlevel" command.
+
+Bug Fixes:
+- Removed the "delay more options delete" feature.
+- Modified the "start play" event.
+- Fixed the user error command.
+- Disabled the "skip" button when the queue is empty.
+- Renamed a command back to its previous name.
+
+
 -------------------------------------------------------
 
 ═════════════════════════════════
